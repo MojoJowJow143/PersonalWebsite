@@ -9,3 +9,6 @@
 *.jpeg
 *.gif
 *.webp
+
+# Keep the portrait cutout used by the site
+!JO25A-cutout.png
